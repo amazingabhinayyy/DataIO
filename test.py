@@ -1,1 +1,1 @@
-print("ab")
+print("ab terminal command")
